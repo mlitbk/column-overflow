@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Highlight text in lines which exceeds specified column",
   "activationEvents": ["column-overflow:toggle"],
-  "repository": "https://github.com/atom/column-overflow",
+  "repository": "https://github.com/mlitbk/column-overflow",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
